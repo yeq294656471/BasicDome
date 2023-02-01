@@ -5,7 +5,7 @@
       icon="home"
       unelevated
       to="/"
-      label="返回首页01"
+      label="返回首页"
       no-caps
     />
     <hr />
